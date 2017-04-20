@@ -19,3 +19,5 @@ function sumOfMultiples($val1, $val2, $range) {
 
   return $sum;
 }
+
+echo sumOfMultiples(3, 5, 1000);
